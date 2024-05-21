@@ -12,3 +12,5 @@ keywords: {Uplink;Vectors;NOMA;Rayleigh channels;Rician channels;Receivers;Compl
 Hu CB 1.23 ub=2.35.mat: Gaussian codebook in paper, MED=1.23.
 
 Hu CB MED=1.1771 MPD=0.81(Raician).mat: Raician codebook in paper.
+
+Hu MPD=1 (Rayleigh).mat: Rayleigh codebook in paper.
