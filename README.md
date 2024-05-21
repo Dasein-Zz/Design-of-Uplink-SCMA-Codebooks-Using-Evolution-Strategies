@@ -10,4 +10,5 @@ DOI: 10.1109/LCOMM.2024.3390602
 keywords: {Uplink;Vectors;NOMA;Rayleigh channels;Rician channels;Receivers;Complexity theory;Sparse code multiple access (SCMA);codebook design;uplink;evolution strategies},
 
 Hu CB 1.23 ub=2.35.mat: Gaussian codebook in paper, MED=1.23.
+
 Hu CB MED=1.1771 MPD=0.81(Raician).mat: Raician codebook in paper.
