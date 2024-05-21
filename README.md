@@ -9,3 +9,4 @@ DOI: 10.1109/LCOMM.2024.3390602
 [1] J. Yang, Y. Zeng, W. Wan and X. Ye, "Design of Uplink SCMA Codebooks Using Evolution Strategies," in IEEE Communications Letters, doi: 10.1109/LCOMM.2024.3390602.
 keywords: {Uplink;Vectors;NOMA;Rayleigh channels;Rician channels;Receivers;Complexity theory;Sparse code multiple access (SCMA);codebook design;uplink;evolution strategies},
 
+Hu CB 1.23 ub=2.35.mat: Gaussian codebook in paper, MED=1.23.
